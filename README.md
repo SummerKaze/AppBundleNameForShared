@@ -12,7 +12,7 @@
 ## 🎯 使用场景
 
 - 开发者需要快速获取华为应用商城中应用的包名
-- ![ClashBox代理工具](https://github.com/xiaobaigroup/ClashBox)快速获取黑白名单应用的包名
+- [ClashBox代理工具](https://github.com/xiaobaigroup/ClashBox)快速获取黑白名单应用的包名
 - 应用分析和研究需要
 - 自动化测试中需要获取应用标识
 
